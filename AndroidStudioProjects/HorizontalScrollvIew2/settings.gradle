@@ -1,0 +1,2 @@
+rootProject.name = "Horizontal Scroll vIew"
+include ':app'

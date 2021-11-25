@@ -1,0 +1,2 @@
+rootProject.name = "ActivitiesLAyout"
+include ':app'
